@@ -1,5 +1,7 @@
 # react-create-app-with-react-router-4
 
-Git clone down the repro. 
-npm install
-npm start
+<ul>
+<li>Git clone down the repro</li>
+<li>npm install</li>
+<li>npm start</li>
+<ul>
