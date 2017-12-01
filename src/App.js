@@ -28,3 +28,9 @@ class App extends React.Component {
  }
 }
 export default App;
+
+
+      <Navbar/>
+      <Search/>
+      <LoginCard/>
+
